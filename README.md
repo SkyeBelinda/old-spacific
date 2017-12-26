@@ -1,5 +1,5 @@
 # A starter webpack project for React, Redux, Express and Knex
-#this has been built into Spacific - built through the Pacifica Hackathon - a language app featuring fiver different languages
+# this has been built into Spacific - built through the Pacifica Hackathon - a language app featuring five different languages
 
 This is a rad base for starting a new full-stack project, or just as reference for how to do things 
 
